@@ -1,8 +1,3 @@
-# Created by .gitignore support plugin (hsz.mobi)
-### Yeoman template
-node_modules/
-bower_components/
-*.log
+.idea
+.DS_Store
 
-build/
-dist/
